@@ -7,7 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Containers.API\Containers.API.csproj" />
       <ProjectReference Include="..\Containers.Models\Containers.Models.csproj" />
     </ItemGroup>
 
